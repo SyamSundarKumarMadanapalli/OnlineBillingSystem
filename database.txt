@@ -1,0 +1,9 @@
+
+ 21 rice 234 5
+ 27 vegetables 125 10
+ 35 juice 100 5
+ 47 sweets 250 20
+ 1 rice 20 10
+ 2 coke 50 5
+ 3 oil 150 10
+ 4 sweets 250 10
